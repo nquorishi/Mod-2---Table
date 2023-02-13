@@ -6,7 +6,7 @@ package com.mycompany.table;
 
 /**
  *
- * @author inaquout
+ * @author Naweed
  */
 public class Table {
     public static void main(String[] args) {
